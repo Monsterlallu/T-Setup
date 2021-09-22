@@ -51,7 +51,7 @@ echo "
 echo " "
 echo " "
 echo " 
-       <─────────────── [ Re-Coded by =*•.¸♡ ARIJ ARMAN ♡¸.•* ] ───────────────>            
+       <─────────────── [ Re-Coded by =*•.¸♡ MONSTER LALLU ♡¸.•* ] ───────────────>            
                                                                " |lolcat
 
 
