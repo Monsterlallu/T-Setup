@@ -38,7 +38,7 @@ echo " "
 echo " "
 echo "
 
-        WELCOME TO ARIJ ARMAN TOOLS_-^^TECH KNOW LINUX^^-_ SUBSCRIBE YOUTUBE CHANNEL
+        WELCOME TO MONSTER LALLU TOOLS_-^^MONSTER_LALLU^^-_ SUBSCRIBE YOUTUBE CHANNEL
     
                 ████████╗      ██████╗ ███████╗███╗   ███╗██╗██╗  ██╗
                 ╚══██╔══╝      ██╔══██╗██╔════╝████╗ ████║██║╚██╗██╔╝
