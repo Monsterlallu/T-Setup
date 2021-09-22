@@ -1,10 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ######################################
 #        PROJECT: T-Remix            #
-#        Author: ARIJ ARMAN          #
-#  email: mrxanonymous633@gmailcom   #
+#        Author: MONSTER LALLU       #
+#  email: monstercyber20@gmailcom    #
 ######################################
-echo -e "\e[32m[*]\e[34m WELCOME TO ARIJ ARMANS TOOLS  \e[m "
+echo -e "\e[32m[*]\e[34m WELCOME TO MONSTER LALLU TOOLS  \e[m "
 echo
 #Installing the following packages to install T-Remix
 echo " "
