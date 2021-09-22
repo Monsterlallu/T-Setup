@@ -23,7 +23,7 @@ $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Arij-arman/T-Remix
+$ git clone https://github.com/Monsterlallu/T-Remix.git
 
 $ ls
 
