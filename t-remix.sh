@@ -131,9 +131,9 @@ echo " "
 echo -e "\033[1;32m﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m  "   
 echo -e "\033[1;33m[*]Please wait \e[m "
 echo -e "\033[1;33m[*]checking installtion \e[m "
-echo -e "\033[1;33m[*]system ok -- CHECKED BY ARIJ ARMAN\e[m "
+echo -e "\033[1;33m[*]system ok -- CHECKED BY MONSTER LALLU\e[m "
 echo -e "\033[1;33m[*]setting termux as a real hacker \e[m"
-echo -e "\033[1;33m[*]Please SUBSCRIBE TECH KNOW LINUX channel for hacking tutorial! \e[m "
+echo -e "\033[1;33m[*]Please SUBSCRIBE MONSTER_LALLU TERMUX channel for hacking tutorial! \e[m "
 echo FINISHED !
 echo -e "\033[1;32m                                                             
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m "
@@ -177,7 +177,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ ARIJ ARMAN ♡¸.•* ] ───────────────>              
+        <─────────────── [Re-Coded by *•.¸♡ MONSTER LALLU ♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
@@ -193,7 +193,7 @@ tput clear
 tput cup 3 30
 echo -e "\e[44m Like \e[41m Subscribe \e[m"
 tput cup 6 30
-echo -e "\x1b[42m ARIJ ARMAN's TECH KNOW LINUX channel \x1b[m"
+echo -e "\x1b[42m MONSTER LALLU's TECH KNOW LINUX channel \x1b[m"
 tput cup 9 0
 echo -en "\e[93m what is your name : \e[m"
 read answer
@@ -211,7 +211,7 @@ tput cup 17 23
     echo -e "\x1b[41m Please subsrcibe my channel for hacking tutorial \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "ARIJ ARMAN's TECH KNOW LINUX" |lolcat
+figlet -f slant "MONSTER LALLU's TECH KNOW LINUX" |lolcat
 echo " "
 echo " "
 #done setting up
