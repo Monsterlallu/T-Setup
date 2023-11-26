@@ -23,11 +23,11 @@ $ termux-setup-storage
   
 $ pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Monsterlallu/T-Remix.git
+$ git clone https://github.com/Monsterlallu/T-Setup.git
 
 $ ls
 
-$ cd T-Remix
+$ cd T-Setup
 
 $ ls
 
@@ -41,7 +41,7 @@ $ bash t-remix.sh
 ### To Remove Banner
 * `Commands` for termux
 ```
-$ cd T-Remix
+$ cd T-Setup
 
 $ ls
 
@@ -50,13 +50,13 @@ $ bash remove-banner.sh
 ### To Remove Login
 * `Commands` for termux
 ```
-$ cd T-Remix
+$ cd T-Setuo
 
 $ ls
 
 $ bash remove-login.sh
 ```
-### Development by ARIJ ARMAN
+### Development by Arakkal Jerri
 ### Keep connected for hacking tools, Thank you.
-### Subscribe my channel for hacking tutorials, <a href="https://www.youtube.com/channel/UCJ5H4A3QAsIbQsVqfMBdZYQ" target=_blank >Tech Know Linux </a>
+### Subscribe my channel for hacking tutorials, <a href="https://youtube.com/@JERRI3983?si=Fwfi1xSYf4pHY7pN" target=_blank >Tech Know Linux </a>
 
