@@ -1,10 +1,10 @@
 #!/data/data/com.termux/files/usr/bin/bash
 ######################################
 #        PROJECT: T-Remix            #
-#        Author: MONSTER LALLU       #
-#  email: monstercyber20@gmailcom    #
+#        Author: ARAKKAL JERRI       #
+#  email: arakkaljerri1@gmailcom     #
 ######################################
-echo -e "\e[32m[*]\e[34m WELCOME TO MONSTER LALLU TOOLS  \e[m "
+echo -e "\e[32m[*]\e[34m WELCOME TO ARAKKAL JERRI TOOLS  \e[m "
 echo
 #Installing the following packages to install T-Remix
 echo " "
@@ -38,7 +38,7 @@ echo " "
 echo " "
 echo "
 
-        WELCOME TO MONSTER LALLU TOOLS_-^^MONSTER_LALLU^^-_ SUBSCRIBE YOUTUBE CHANNEL
+        WELCOME TO ARAKKAL JERRI TOOLS_-^^ARAKKAL_JERRI^^-_ SUBSCRIBE YOUTUBE CHANNEL
     
                 ████████╗      ██████╗ ███████╗███╗   ███╗██╗██╗  ██╗
                 ╚══██╔══╝      ██╔══██╗██╔════╝████╗ ████║██║╚██╗██╔╝
@@ -51,7 +51,7 @@ echo "
 echo " "
 echo " "
 echo " 
-       <─────────────── [ Re-Coded by =*•.¸♡ MONSTER LALLU ♡¸.•* ] ───────────────>            
+       <─────────────── [ Re-Coded by =*•.¸♡ ARAKKAL JERRI ♡¸.•* ] ───────────────>            
                                                                " |lolcat
 
 
@@ -131,9 +131,9 @@ echo " "
 echo -e "\033[1;32m﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m  "   
 echo -e "\033[1;33m[*]Please wait \e[m "
 echo -e "\033[1;33m[*]checking installtion \e[m "
-echo -e "\033[1;33m[*]system ok -- CHECKED BY MONSTER LALLU\e[m "
+echo -e "\033[1;33m[*]system ok -- CHECKED BY ARAKKAL JERRI\e[m "
 echo -e "\033[1;33m[*]setting termux as a real hacker \e[m"
-echo -e "\033[1;33m[*]Please SUBSCRIBE MONSTER_LALLU TERMUX channel for hacking tutorial! \e[m "
+echo -e "\033[1;33m[*]Please SUBSCRIBE ARAKKAL_JERRI TERMUX channel for hacking tutorial! \e[m "
 echo FINISHED !
 echo -e "\033[1;32m                                                             
 ﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌ \033[m "
@@ -177,7 +177,7 @@ echo " "
 
 echo " "
 echo "
-        <─────────────── [Re-Coded by *•.¸♡ MONSTER LALLU ♡¸.•* ] ───────────────>              
+        <─────────────── [Re-Coded by *•.¸♡ ARAKKAL JERRI ♡¸.•* ] ───────────────>              
                             " |lolcat
 
 echo " "
@@ -193,7 +193,7 @@ tput clear
 tput cup 3 30
 echo -e "\e[44m Like \e[41m Subscribe \e[m"
 tput cup 6 30
-echo -e "\x1b[42m MONSTER LALLU's TECH KNOW LINUX channel \x1b[m"
+echo -e "\x1b[42m ARAKKAL JERRI's YouTube channel \x1b[m"
 tput cup 9 0
 echo -en "\e[93m what is your name : \e[m"
 read answer
@@ -211,7 +211,7 @@ tput cup 17 23
     echo -e "\x1b[41m Please subsrcibe my channel for hacking tutorial \x1b[m"
 fi
 tput cup 20 0
-figlet -f slant "MONSTER LALLU's TECH KNOW LINUX" |lolcat
+figlet -f slant "Arakkal Jerri's YouTube" |lolcat
 echo " "
 echo " "
 #done setting up
